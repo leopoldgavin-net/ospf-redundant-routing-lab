@@ -27,7 +27,7 @@ The main objective was to estabilish OSPF adjacenves, and advertise routes dynam
 
 Verified adjacencies were formed using the -show ip ospf neighbor- command 
 
-
+![Neighbors](OSPF-neighbors.png)
 
 
 ### Routing Table
