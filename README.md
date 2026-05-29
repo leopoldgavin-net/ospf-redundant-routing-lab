@@ -18,7 +18,7 @@ The main objective was to estabilish OSPF adjacenves, and advertise routes dynam
 ## Topology 
 
 
-![topology.png]
+![Topology](OSPF-topology.png)
 
 
 ## Verification
@@ -27,23 +27,23 @@ The main objective was to estabilish OSPF adjacenves, and advertise routes dynam
 
 Verified adjacencies were formed using the -show ip ospf neighbor- command 
 
-[insert command screenshot]
+
 
 
 ### Routing Table
 
 Verified routes using the -show ip route- command 
 
-[insert command screenshot]
+![IP Routes](OSPF-ip-route.png) 
 
 
 ### Connectivity 
 
 Lastly, verified connectivity end-to-end by using pings and traceroutes 
 
-[insert command screenshots]
+![Pings](OSPF-ping.png)
 
-
+![Traceroute](OSPF-traceroute.png)
 
 ### Skills Demonstrated
 
