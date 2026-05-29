@@ -18,7 +18,7 @@ The main objective was to estabilish OSPF adjacenves, and advertise routes dynam
 ## Topology 
 
 
-[insert topology screenshot]
+![topology.png]
 
 
 ## Verification
